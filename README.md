@@ -14,18 +14,12 @@ Always Learning new technologies and leveling up.
 
 📝 I regularly write articles on https://medium.com/@classikh
 
-📫 How to reach me charanksingh20@gmail.com
+📫 How to reach me charanksingh20@gmail.com 
 
-- - -
-
-[![](https://visitcount.itsvg.in/api?id=charankamal20&icon=0&color=0)](https://visitcount.itsvg.in)
-
-- - - 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charankamal20&label=Profile%20views&color=0e75b6&style=flat" alt="charankamal20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charankamal20" alt="charankamal20" /></a> </p>
 
+[![](https://visitcount.itsvg.in/api?id=charankamal20&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 
