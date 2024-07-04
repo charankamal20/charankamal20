@@ -44,4 +44,4 @@ Always Learning new technologies and leveling up.
 
 
 ### 👨🏼‍💻 Contributions 
-![Snake animation](https://github.com/charankamal20/charankamal20/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/charankamal20/blob/output/github-contribution-grid-snake.svg)
