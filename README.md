@@ -1,6 +1,4 @@
-<div align="center">
 [![An image of @charankamal20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charankamal20)](https://holopin.io/@charankamal20)
-</div>
 
 # About Me:
 
