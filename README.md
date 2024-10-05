@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVtdmx5cjc4djFjZ3Y3cHYyYTAzNmtvNHZhMzJkZzkweXE4NTM3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fWa9ki6KrHTxe/giphy.gif" align="center" style="width: 90%">
+[![An image of @charankamal20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charankamal20)](https://holopin.io/@charankamal20)
 </div>
 
 # About Me:
