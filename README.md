@@ -1,8 +1,6 @@
-[![An image of @charankamal20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charankamal20)](https://holopin.io/@charankamal20)
-
 # About Me:
 
-Hey visitor, this is Charan.
+This is Charan.
 I am a self taught web and IoT Developer. I create web applications and firmwares for embedded systems.
 Always Learning new technologies and leveling up.
 
