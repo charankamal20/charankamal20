@@ -1,17 +1,4 @@
-# About Me:
-
-This is Charan.
-I am a self taught web and IoT Developer. I create web applications and firmwares for embedded systems.
-Always Learning new technologies and leveling up.
-
-🌱 I’m currently learning Golang and DevOps.
-
 🐧 <b>I use Arch btw</b>
-
-📝 I regularly write articles on https://medium.com/@classikh
-
-📫 How to reach me charanksingh20@gmail.com 
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charankamal20" alt="charankamal20" /></a> </p>
 
@@ -44,8 +31,8 @@ Always Learning new technologies and leveling up.
 ### 👨🏼‍💻 Contributions 
 -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charankamal20/charankamal20/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charankamal20/charankamal20/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/charankamal20/charankamal20/output/github-contribution-grid-snake-dark.svg">
-</picture>
+</picture> -->
